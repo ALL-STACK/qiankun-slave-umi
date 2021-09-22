@@ -34,5 +34,6 @@ export default defineConfig({
   targets: {
     ie: 11,
   },
+  // mfsu: {},  // 开启后ie浏览器不兼容
   fastRefresh: {},
 });
